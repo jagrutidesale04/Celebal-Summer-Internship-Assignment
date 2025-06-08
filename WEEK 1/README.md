@@ -19,7 +19,7 @@ The task is to create a Python program that prints different triangle patterns u
 
 ---
 
-## 📐 Triangle Patterns
+## Triangle Patterns
 
 ### 🔻 Lower Triangular
 ```
@@ -92,7 +92,7 @@ WEEK 1/
 
 **Jagruti Desale**  
 3rd Year B.Tech – Data Science and Engineering  
-Intern @ Celebal Technologies  
+Summer Intern @ Celebal Technologies  
 🔗 [GitHub](https://github.com/jagrutidesale04) | 💼 [LinkedIn](https://www.linkedin.com/in/jagruti-desale)
 
 ---
