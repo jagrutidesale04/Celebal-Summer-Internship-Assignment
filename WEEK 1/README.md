@@ -93,6 +93,6 @@ WEEK 1/
 **Jagruti Desale**  
 3rd Year B.Tech – Data Science and Engineering  
 Summer Intern @ Celebal Technologies  
-🔗 [GitHub](https://github.com/jagrutidesale04) | 💼 [LinkedIn](https://www.linkedin.com/in/jagruti-desale)
+🔗 [GitHub](https://github.com/jagrutidesale04) | 💼 [LinkedIn](https://www.linkedin.com/in/jagruti-desale-jd04)
 
 ---
